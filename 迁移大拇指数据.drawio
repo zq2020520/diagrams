@@ -1,45 +1,45 @@
-<mxfile host="app.diagrams.net" modified="2021-02-23T06:25:09.956Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="usP8lsnggwKrYFRhvv2R" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-23T06:27:24.880Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="uOrMYrfg5cUkRpwy3__c" version="14.2.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1284" dy="852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1284" dy="852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F4F1DE" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="YerVVY2-V9nm6W07od5p-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YerVVY2-V9nm6W07od5p-0" target="YerVVY2-V9nm6W07od5p-1">
+        <mxCell id="YerVVY2-V9nm6W07od5p-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=#393C56;labelBackgroundColor=#F4F1DE;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YerVVY2-V9nm6W07od5p-0" target="YerVVY2-V9nm6W07od5p-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YerVVY2-V9nm6W07od5p-0" value="大拇指数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="YerVVY2-V9nm6W07od5p-0" value="大拇指数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="60" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YerVVY2-V9nm6W07od5p-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.008;entryY=0.383;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YerVVY2-V9nm6W07od5p-1" target="YerVVY2-V9nm6W07od5p-3">
+        <mxCell id="YerVVY2-V9nm6W07od5p-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.008;entryY=0.383;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;strokeColor=#E07A5F;fontColor=#393C56;labelBackgroundColor=#F4F1DE;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YerVVY2-V9nm6W07od5p-1" target="YerVVY2-V9nm6W07od5p-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YerVVY2-V9nm6W07od5p-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YerVVY2-V9nm6W07od5p-1" target="YerVVY2-V9nm6W07od5p-4">
+        <mxCell id="YerVVY2-V9nm6W07od5p-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=#393C56;labelBackgroundColor=#F4F1DE;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YerVVY2-V9nm6W07od5p-1" target="YerVVY2-V9nm6W07od5p-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YerVVY2-V9nm6W07od5p-11" value="新的转换器" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YerVVY2-V9nm6W07od5p-7">
+        <mxCell id="YerVVY2-V9nm6W07od5p-11" value="新的转换器" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#393C56;labelBackgroundColor=#F4F1DE;" vertex="1" connectable="0" parent="YerVVY2-V9nm6W07od5p-7">
           <mxGeometry x="-0.2818" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YerVVY2-V9nm6W07od5p-1" value="source" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="YerVVY2-V9nm6W07od5p-1" value="source" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YerVVY2-V9nm6W07od5p-2" value="common" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="YerVVY2-V9nm6W07od5p-2" value="common" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="640" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YerVVY2-V9nm6W07od5p-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YerVVY2-V9nm6W07od5p-3" target="YerVVY2-V9nm6W07od5p-2">
+        <mxCell id="YerVVY2-V9nm6W07od5p-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;strokeColor=#E07A5F;fontColor=#393C56;labelBackgroundColor=#F4F1DE;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YerVVY2-V9nm6W07od5p-3" target="YerVVY2-V9nm6W07od5p-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YerVVY2-V9nm6W07od5p-3" value="转换器1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="YerVVY2-V9nm6W07od5p-3" value="转换器1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="500" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YerVVY2-V9nm6W07od5p-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YerVVY2-V9nm6W07od5p-4" target="YerVVY2-V9nm6W07od5p-2">
+        <mxCell id="YerVVY2-V9nm6W07od5p-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=#393C56;labelBackgroundColor=#F4F1DE;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YerVVY2-V9nm6W07od5p-4" target="YerVVY2-V9nm6W07od5p-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YerVVY2-V9nm6W07od5p-4" value="转换器2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="YerVVY2-V9nm6W07od5p-4" value="转换器2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="500" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YerVVY2-V9nm6W07od5p-12" value="&lt;div style=&quot;text-align: left ; font-size: 16px&quot;&gt;&lt;b&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 16px&quot;&gt;1、重新配置一套转换器2&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 16px&quot;&gt;&lt;span&gt;&lt;b&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 16px&quot;&gt;2、大拇指600万数据直接走新转换器&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 16px&quot;&gt;&lt;span&gt;&lt;b&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 16px&quot;&gt;3、大拇指数据迁移完成，删除大拇指的source数据&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 16px&quot;&gt;&lt;b&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 16px&quot;&gt;4、转换器改成转换器1&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="YerVVY2-V9nm6W07od5p-12" value="&lt;div style=&quot;text-align: left ; font-size: 16px&quot;&gt;&lt;b&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 16px&quot;&gt;1、重新配置一套转换器2&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 16px&quot;&gt;&lt;span&gt;&lt;b&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 16px&quot;&gt;2、大拇指600万数据直接走新转换器&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 16px&quot;&gt;&lt;span&gt;&lt;b&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 16px&quot;&gt;3、大拇指数据迁移完成，删除大拇指的source数据&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; font-size: 16px&quot;&gt;&lt;b&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 16px&quot;&gt;4、转换器改成转换器1&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="90" y="430" width="379" height="110" as="geometry" />
         </mxCell>
       </root>
